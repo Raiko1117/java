@@ -4,6 +4,11 @@ import java.util.Scanner;
 import java.io.File;
 public class AssignmentOne{
     public static void main(String[] args) throws FileNotFoundException {
+
+        #raiko gay
+
+
+
         Scanner scanner1 = new Scanner(new File("C:\\Users\\Raiymbek\\IdeaProjects\\Test 1\\src\\file1.txt"));
         Scanner scanner2 = new Scanner(new File("C:\\Users\\Raiymbek\\IdeaProjects\\Test 1\\src\\file2.txt") );
         double x,y;
